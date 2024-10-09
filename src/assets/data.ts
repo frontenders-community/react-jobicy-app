@@ -1,0 +1,32 @@
+const countries = [
+  { name: "Italy", flag: "🇮🇹", slug: "italy" },
+  { name: "France", flag: "🇫🇷", slug: "france" },
+  { name: "Germany", flag: "🇩🇪", slug: "germany" },
+  { name: "Spain", flag: "🇪🇸", slug: "spain" },
+  { name: "United Kingdom", flag: "🇬🇧", slug: "united-kingdom" },
+  { name: "Portugal", flag: "🇵🇹", slug: "portugal" },
+  { name: "Netherlands", flag: "🇳🇱", slug: "netherlands" },
+  { name: "Belgium", flag: "🇧🇪", slug: "belgium" },
+  { name: "Switzerland", flag: "🇨🇭", slug: "switzerland" },
+  { name: "Austria", flag: "🇦🇹", slug: "austria" },
+  { name: "Sweden", flag: "🇸🇪", slug: "sweden" },
+  { name: "Norway", flag: "🇳🇴", slug: "norway" },
+  { name: "Denmark", flag: "🇩🇰", slug: "denmark" },
+  { name: "Finland", flag: "🇫🇮", slug: "finland" },
+  { name: "Greece", flag: "🇬🇷", slug: "greece" },
+  { name: "Poland", flag: "🇵🇱", slug: "poland" },
+  { name: "Czech Republic", flag: "🇨🇿", slug: "czech-republic" },
+  { name: "Hungary", flag: "🇭🇺", slug: "hungary" },
+  { name: "Romania", flag: "🇷🇴", slug: "romania" },
+  { name: "Bulgaria", flag: "🇧🇬", slug: "bulgaria" },
+  { name: "Croatia", flag: "🇭🇷", slug: "croatia" },
+  { name: "Slovenia", flag: "🇸🇮", slug: "slovenia" },
+  { name: "Slovakia", flag: "🇸🇰", slug: "slovakia" },
+  { name: "Luxembourg", flag: "🇱🇺", slug: "luxembourg" },
+  { name: "Ireland", flag: "🇮🇪", slug: "ireland" },
+  { name: "Lithuania", flag: "🇱🇹", slug: "lithuania" },
+  { name: "Latvia", flag: "🇱🇻", slug: "latvia" },
+  { name: "Estonia", flag: "🇪🇪", slug: "estonia" }
+];
+
+export default countries;
